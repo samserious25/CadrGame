@@ -1,0 +1,10 @@
+{
+  "BonusCard": 1,
+  "CardBack": 1,
+  "CountToMatch": 2,
+  "NullCells": "0,4,20,24",
+  "Pictures": "0-4",
+  "TapBonusBurns": 4,
+  "XSize": 5,
+  "YSize": 5
+}
